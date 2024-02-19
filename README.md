@@ -1,2 +1,3 @@
-# C-Programming-Notes
-Notes of c programing language
+# C-Programming
+
+WelCome to learn C Programming
