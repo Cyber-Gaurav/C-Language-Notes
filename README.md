@@ -1,2 +1,2 @@
-# C-Language-Notes
+# C-Programming-Notes
 Notes of c programing language
