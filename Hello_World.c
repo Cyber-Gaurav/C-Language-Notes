@@ -1,6 +1,6 @@
-//Simple Hello World Program in C Programming
+// Simple Hello World Program in C Programming
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
