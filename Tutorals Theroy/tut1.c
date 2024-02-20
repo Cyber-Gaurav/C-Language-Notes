@@ -7,8 +7,8 @@
 
 //syntax: to make a variable
 //syntex: datatype 'variableName' = data or value;
-//example: float cat;
-        //cat = 5;
+//example: float cat; //variable declaration
+        //cat = 5;  //variable initilazation
         //or 
 
 // float dog = 6;
@@ -16,5 +16,7 @@
 
 //#include<stdio.h> //this is header file. header file are store a in built function like printf();, scanf();
 // <stdio.h> the meaning of 'std' is standerd and 'io' means input and output.
+
+//printf() are used to print a 
 
 
